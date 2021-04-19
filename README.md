@@ -7,6 +7,7 @@ My LinkedIn:
 ### 🔧 Technologies I'm passionate about
 
 <!-- use https://simpleicons.org/ to find icons and colors -->
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&labelColor=121212&color=2C8EBB)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&labelColor=121212&color=61DAFB)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=121212&color=339933)
@@ -15,6 +16,14 @@ My LinkedIn:
 ![Babel](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=121212&color=F9DC3E)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&labelColor=121212&color=181717)
 ![npm](https://img.shields.io/badge/Tool-npm-informational?style=flat&logo=npm&logoColor=white&labelColor=121212&color=CB3837)
+
+
+![Postman](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&labelColor=121212&color=FF6C37)
+![RSS](https://img.shields.io/badge/Tool-RSS-informational?style=flat&logo=rss&logoColor=white&labelColor=121212&color=FFA500)
+![Sketch](https://img.shields.io/badge/Tool-Sketch-informational?style=flat&logo=sketch&logoColor=white&labelColor=121212&color=F7B500)
+![Amazon_AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
+![Google_Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
+![Akamai](https://img.shields.io/badge/CDN-Akamai-informational?style=flat&logo=akamai&logoColor=white&labelColor=121212&color=1293D8)
 
 ### 🕵️‍ Some more stats on GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsushanth&theme=dark&bg_color=121212)](https://github.com/abhinavsushanth/github-readme-stats)
