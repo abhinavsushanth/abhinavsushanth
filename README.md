@@ -20,12 +20,12 @@ My LinkedIn:
 ![npm](https://img.shields.io/badge/Tool-npm-informational?style=flat&logo=npm&logoColor=white&labelColor=121212&color=CB3837)
 ![SQL](https://img.shields.io/badge/Databases-SQL-informational?style=flat&logo=sql&logoColor=white&labelColor=121212&color=F9DC3E)
 ![noSQL](https://img.shields.io/badge/Database-noSQL-informational?style=flat&logo=nosql&logoColor=white&labelColor=121212&color=F7B500)
-
+![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&labelColor=121212&color=4285F4)
 
 
 
 ![Amazon_AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
-![Google_Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
+
 ![Akamai](https://img.shields.io/badge/CDN-Akamai-informational?style=flat&logo=akamai&logoColor=white&labelColor=121212&color=1293D8)
 
 ### 🕵️‍ Some more stats on GitHub
