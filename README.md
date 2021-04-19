@@ -9,16 +9,15 @@ My LinkedIn:
 <!-- use https://simpleicons.org/ to find icons and colors -->
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&labelColor=121212&color=2C8EBB)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
-![C#](https://img.shields.io/badge/OS-C%23-informational?style=flat&logo=c#&logoColor=white&labelColor=121212&color=FF6C37)
-![Cisco](https://img.shields.io/badge/Code-Cisco-informational?style=flat&logo=cisco&logoColor=white&labelColor=121212&color=FFA500)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c#&logoColor=white&labelColor=121212&color=FF6C37)
+![Cisco](https://img.shields.io/badge/OS-Cisco-informational?style=flat&logo=cisco&logoColor=white&labelColor=121212&color=FFA500)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&labelColor=121212&color=61DAFB)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=121212&color=339933)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=121212&color=1572B6)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=121212&color=E34F26)
-![Babel](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=121212&color=F9DC3E)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&labelColor=121212&color=181717)
 ![npm](https://img.shields.io/badge/Tool-npm-informational?style=flat&logo=npm&logoColor=white&labelColor=121212&color=CB3837)
-
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sql&logoColor=white&labelColor=121212&color=F9DC3E)
 
 
 
