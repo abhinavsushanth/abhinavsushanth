@@ -20,7 +20,7 @@ My LinkedIn:
 ![npm](https://img.shields.io/badge/Tool-npm-informational?style=flat&logo=npm&logoColor=white&labelColor=121212&color=CB3837)
 ![SQL](https://img.shields.io/badge/Databases-SQL-informational?style=flat&logo=sql&logoColor=white&labelColor=121212&color=F9DC3E)
 ![noSQL](https://img.shields.io/badge/Database-noSQL-informational?style=flat&logo=nosql&logoColor=white&labelColor=121212&color=F7B500)
-![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&labelColor=121212&color=4285F4)
+![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&labelColor=121212&color=4285F4)
 
 
 
