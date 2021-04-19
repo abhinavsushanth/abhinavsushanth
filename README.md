@@ -17,7 +17,7 @@ My LinkedIn:
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=121212&color=E34F26)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&labelColor=121212&color=181717)
 ![npm](https://img.shields.io/badge/Tool-npm-informational?style=flat&logo=npm&logoColor=white&labelColor=121212&color=CB3837)
-![SQL](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=sql&logoColor=white&labelColor=121212&color=F9DC3E)
+![SQL](https://img.shields.io/badge/Databases-SQL-informational?style=flat&logo=sql&logoColor=white&labelColor=121212&color=F9DC3E)
 ![noSQL](https://img.shields.io/badge/Database-noSQL-informational?style=flat&logo=nosql&logoColor=white&labelColor=121212&color=F7B500)
 
 
