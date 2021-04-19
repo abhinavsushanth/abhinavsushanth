@@ -22,15 +22,14 @@ My LinkedIn:
 ![noSQL](https://img.shields.io/badge/Database-noSQL-informational?style=flat&logo=nosql&logoColor=white&labelColor=121212&color=F7B500)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&labelColor=121212&color=4285F4)
 
-
-
+<!--
+![Abhinav Sushanth's github stats](https://github-readme-stats.vercel.app/api?username=abhinavsushanth&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
 ![Amazon_AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
-
 ![Akamai](https://img.shields.io/badge/CDN-Akamai-informational?style=flat&logo=akamai&logoColor=white&labelColor=121212&color=1293D8)
+-->
 
 ### 🕵️‍ Some more stats on GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsushanth&theme=dark&bg_color=121212)](https://github.com/abhinavsushanth/github-readme-stats)
-![Abhinav Sushanth's github stats](https://github-readme-stats.vercel.app/api?username=abhinavsushanth&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
 ![Abhinav Sushanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavsushanth&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
 **abhinavsushanth/abhinavsushanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
