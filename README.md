@@ -31,6 +31,7 @@ My LinkedIn:
 ### 🕵️‍ Some more stats on GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsushanth&theme=dark&bg_color=121212)](https://github.com/abhinavsushanth/github-readme-stats)
 ![Abhinav Sushanth's github stats](https://github-readme-stats.vercel.app/api?username=abhinavsushanth&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
+![Abhinav Sushanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavsushanth&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
 **abhinavsushanth/abhinavsushanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
