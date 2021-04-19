@@ -9,7 +9,7 @@ My LinkedIn:
 <!-- use https://simpleicons.org/ to find icons and colors -->
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&labelColor=121212&color=2C8EBB)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
-![C#](https://img.shields.io/badge/Code-AAA-informational?style=flat&logo=c#&logoColor=white&labelColor=121212&color=FF6C37)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c#&logoColor=white&labelColor=121212&color=FF6C37)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&labelColor=121212&color=61DAFB)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=121212&color=339933)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=121212&color=1572B6)
